@@ -45,6 +45,11 @@ streamlit run app.py
 3. View the full transaction table and a summary of your financial data.
 4. Download the data as a CSV for your own records.
 
+## Dev Notes
+
+- `test.py` is a developer script used to manually test the budget functions. It is not part of the user-facing interface.
+
+
 ## Notes
 
 - All data is stored locally in the data/budget_data.json file.
